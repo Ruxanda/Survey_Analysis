@@ -2,20 +2,20 @@
 
 ## *PROJECT 1:*
 
-    * Linear regression
-         * centering variables
-         * interaction terms
+    * Linear Regression
+         * Centering variables
+         * Interaction terms
 
 ## *PROJECT 2:*
 
-    * Logistic regression
-         * centering variables
-         * interaction terms
+    * Logistic Regression
+         * Centering variables
+         * Interaction terms
     * Cleaning and plotting survey data
 
 ## *PROJECT 3:*
 
-    * Weighted analysis
+    * Weighted Analysis
     * PEW data
 
 ## *PROJECT 4:*
@@ -23,4 +23,10 @@
     * Missing Data Imputation
          * R packages: mi, Hmisc
     * Ratio and Regression Estimation
+
+## *PROJECT 5:*
+
+    * Random Sampling
+    * Quadratic Regression
+    * Polynomial Regression
 
