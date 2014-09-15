@@ -30,3 +30,9 @@
     * Quadratic Regression
     * Polynomial Regression
 
+## *PROJECT 6:*
+
+    * Simulations
+    * Analysis of Stratified Samples
+    * Analysis of Cluster Samples
+
