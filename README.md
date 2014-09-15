@@ -36,3 +36,7 @@
     * Analysis of Stratified Samples
     * Analysis of Cluster Samples
 
+## *PROJECT 7:*
+
+    * Survey interviewing
+
