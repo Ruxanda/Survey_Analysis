@@ -18,3 +18,9 @@
     * Weighted analysis
     * PEW data
 
+## *PROJECT 4:*
+
+    * Missing Data Imputation
+         * R packages: mi, Hmisc
+    * Ratio and Regression Estimation
+
