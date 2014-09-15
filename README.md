@@ -51,3 +51,11 @@
     * Survey Responses
     * Replicate Research Article
 
+## *PROJECT 10:*
+
+    * PART A:
+         * Hypothesis Testing: Linear Models 
+    * PART B:
+         * Hypothesis Testing: Logit Models
+
+
