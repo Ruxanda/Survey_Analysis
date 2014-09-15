@@ -40,3 +40,9 @@
 
     * Survey interviewing
 
+## *PROJECT 8:*
+
+    * Survey Measurement
+    * Measurement Effects
+         * Question Wording
+
