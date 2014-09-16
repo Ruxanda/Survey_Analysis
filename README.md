@@ -63,4 +63,7 @@
     * Ideal Point Modeling
     * Hierarchical Regressions
 
+## *PROJECT 12:*
 
+    * Multilevel Modeling
+    * Poststratification
