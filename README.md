@@ -58,4 +58,9 @@
     * PART B:
          * Hypothesis Testing: Logit Models
 
+## *PROJECT 11:*
+
+    * Ideal Point Modeling
+    * Hierarchical Regressions
+
 
